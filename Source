@@ -1,0 +1,66 @@
+[
+    {
+        "id": "yt-dlp",
+        "name": "yt-dlp",
+        "desc": "A feature-rich command-line audio/video downloader",
+        "type": "yt-dlp",
+        "rules": [
+            "https://.*.youtube.com/watch\\?v=([\\w\\-]+).*",
+            "https://x.com/\\w+/status/(\\d+).*",
+            "https://youtu.be/([\\w\\-]+)\\?si=.+"
+        ],
+        "cache": 21600,
+        "author": "purkylin",
+        "version": "0.0.2",
+        "update_time": "2025-01-13T12:41:00Z",
+        "endpoint": "https://9228.eu/youtube/info",
+    },
+    {
+        "id": "vod1",
+        "name": "CMS",
+        "desc": "VOD",
+        "type": "vod",
+        "rule": "",
+        "cache": 21600,
+        "author": "purkylin",
+        "version": "0.0.2",
+        "update_time": "2025-03-29T16:37:00Z",
+        "endpoint": "https://ghp.xptvhelper.link/https://github.com/fangkuia/XPTV/raw/refs/heads/main/CMS/XPTV.json"
+    },
+    {
+        "id": "vod2",
+        "name": "VOD",
+        "desc": "VOD",
+        "type": "vod",
+        "rule": "",
+        "cache": 21600,
+        "author": "purkylin",
+        "version": "0.0.2",
+        "update_time": "2025-03-29T16:37:00Z",
+        "endpoint": "https://ghp.xptvhelper.link/https://github.com/fangkuia/XPTV/raw/refs/heads/main/VOD/XPTV.json"
+    },
+    {
+        "id": "vod3",
+        "name": "CMS AV",
+        "desc": "AV",
+        "type": "vod",
+        "cache": 21600,
+        "author": "purkylin",
+        "version": "0.0.3",
+        "update_time": "2025-03-30T16:37:00Z",
+        "adult": true,
+        "endpoint": "https://ghp.xptvhelper.link/https://github.com/fangkuia/XPTV/raw/refs/heads/main/CMS/XPAV.json"
+    },
+    {
+        "id": "vod4",
+        "name": "VOD AV",
+        "desc": "AV",
+        "type": "vod",
+        "cache": 21600,
+        "author": "purkylin",
+        "version": "0.0.3",
+        "update_time": "2025-03-30T16:37:00Z",
+        "adult": true,
+        "endpoint": "https://ghp.xptvhelper.link/https://github.com/fangkuia/XPTV/raw/refs/heads/main/VOD/XPAV.json"
+    }
+]
