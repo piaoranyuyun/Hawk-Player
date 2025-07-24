@@ -1,0 +1,122 @@
+[
+    {
+        "id": "yt-dlp",
+        "name": "yt-dlp",
+        "desc": "A feature-rich command-line audio/video downloader",
+        "type": "yt-dlp",
+        "rules": [
+            "https://.*.youtube.com/watch\\?v=([\\w\\-]+).*",
+            "https://x.com/\\w+/status/(\\d+).*",
+            "https://youtu.be/([\\w\\-]+)\\?si=.+"
+        ],
+        "cache": 21600,
+        "author": "purkylin",
+        "version": "0.0.3",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://api.9228.eu/ytdlp/"
+    },
+    {
+        "id": "vod1",
+        "name": "CMS",
+        "desc": "VOD",
+        "type": "vod",
+        "author": "purkylin",
+        "version": "0.0.6",
+        "update_time": "2025-07-19T11:34:00Z",
+        "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@refs/heads/dev/CMS/XPTV.json"
+    },
+    {
+        "id": "vod2",
+        "name": "VOD",
+        "desc": "VOD",
+        "type": "vod",
+        "cache": 21600,
+        "author": "purkylin",
+        "version": "0.0.5",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@refs/heads/dev/Patch/vod.json"
+    },
+    {
+        "id": "vod3",
+        "name": "CMS AV",
+        "desc": "AV",
+        "type": "vod",
+        "cache": 21600,
+        "author": "purkylin",
+        "version": "0.0.5",
+        "update_time": "2025-07-11T10:45:00Z",
+        "adult": true,
+        "endpoint": "https://cdn.jsdelivr.net/gh/fangkuia/XPTV@refs/heads/main/CMS/XPAV.json"
+    },
+    {
+        "id": "vod4",
+        "name": "VOD AV",
+        "desc": "AV",
+        "type": "vod",
+        "cache": 21600,
+        "author": "purkylin",
+        "version": "0.0.5",
+        "update_time": "2025-07-11T10:45:00Z",
+        "adult": true,
+        "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@dev/VOD/XPAV.json"
+    },
+    {
+        "id": "vod5",
+        "name": "PAN",
+        "desc": "网盘",
+        "type": "vod",
+        "cache": 21600,
+        "author": "purkylin",
+        "version": "0.0.5",
+        "update_time": "2025-07-11T10:45:00Z",
+        "adult": false,
+        "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@dev/VOD/PAN.json"
+    },
+    {
+        "id": "quark",
+        "name": "quark",
+        "desc": "夸克网盘",
+        "type": "pan",
+        "rules": [
+            "https://pan.quark.cn/.*"
+        ],
+        "cache": 21600,
+        "author": "purkylin",
+        "version": "0.0.5",
+        "update_time": "2025-07-11T10:45:00Z",
+        "adult": false,
+        "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@dev/Patch/quark.js"
+    },
+    {
+        "id": "trending",
+        "name": "Trending",
+        "desc": "TMDB Trending",
+        "type": "trending",
+        "rules": [],
+        "cache": 21600,
+        "author": "purkylin",
+        "version": "0.0.5",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": null
+    },
+    {
+        "id": "douban",
+        "name": "豆瓣",
+        "desc": "豆瓣",
+        "type": "hot",
+        "author": "purkylin",
+        "version": "0.0.5",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@dev/Patch/douban.js"
+    },
+    {
+        "id": "Bilibili",
+        "name": "弹幕",
+        "desc": "Bilibili弹幕",
+        "type": "danmaku",
+        "author": "purkylin",
+        "version": "0.0.5",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@dev/Patch/danmaku.js"
+    }
+]
