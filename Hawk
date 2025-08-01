@@ -1,0 +1,141 @@
+{
+    "sites": [
+        {
+            "name": "黑木耳",
+            "type": 1,
+            "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
+            "icon": "https://raw.githubusercontent.com/fishdown/Icon/master/hp/hme3.png",
+            "color": "#282829"
+        },
+        {
+            "name": "极速资源",
+            "type": 1,
+            "api": "https://jszyapi.com/api.php/provide/vod/",
+            "icon": "https://raw.githubusercontent.com/fishdown/Icon/master/hp/jszy.png",
+            "color": "#2A3342"
+        },
+        {
+            "name": "卧龙资源",
+            "type": 1,
+            "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
+            "icon": "https://raw.githubusercontent.com/fishdown/Icon/master/hp/wlzy.png",
+            "color": "#2B3241"
+        },
+        {
+            "name": "影视天堂",
+            "type": 3,
+            "api": "csp_ystt",
+            "ext": "https://raw.githubusercontent.com/purkylin/XPTV/refs/heads/main/js/ystt.js",
+            "icon": "https://raw.githubusercontent.com/fishdown/Icon/master/hp/ystt.png",
+            "color": "#140801"
+        },
+        {
+            "name": "PandaTV",
+            "type": 3,
+            "api": "csp_pandatv",
+            "ext": "https://raw.githubusercontent.com/fishdown/Ggsddu/refs/heads/master/Js/pandatv.js",
+            "icon": "https://raw.githubusercontent.com/fishdown/Icon/master/hp/pandatv2.png",
+            "color": "#132146"
+        },
+        {
+            "name": "索尼资源",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "红牛资源",
+            "type": 1,
+            "api": "https://www.hongniuzy2.com/api.php/provide/vod/"
+        },
+        {
+            "name": "非凡资源",
+            "type": 1,
+            "api": "https://cj.ffzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "量子资源",
+            "type": 1,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "ikun资源",
+            "type": 1,
+            "api": "https://ikunzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "光速资源",
+            "type": 1,
+            "api": "https://api.guangsuapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "百度云资源",
+            "type": 1,
+            "api": "https://api.apibdzy.com/api.php/provide/vod/"
+        },
+        {
+            "name": "闪电资源",
+            "type": 1,
+            "api": "https://sdzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "无尽资源",
+            "type": 1,
+            "api": "https://api.wujinapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "火狐资源",
+            "type": 1,
+            "api": "https://hhzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "虎牙资源",
+            "type": 1,
+            "api": "https://www.huyaapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "樱花资源",
+            "type": 1,
+            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/"
+        },
+        {
+            "name": "四圈资源",
+            "type": 1,
+            "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
+        },
+        {
+            "name": "豆瓣资源",
+            "type": 1,
+            "api": "https://caiji.dbzy.tv/api.php/provide/vod/at/josn/"
+        },
+        {
+            "name": "如意资源",
+            "type": 1,
+            "api": "https://cj.rycjapi.com/api.php/provide/vod/at/json/"
+        },
+        {
+            "name": "华为资源",
+            "type": 1,
+            "api": "https://huawei8.live/api.php/provide/vod/"
+        },
+        {
+            "name": "旺旺短剧",
+            "type": 1,
+            "api": "https://api.wwzy.tv/api.php/provide/vod/"
+        },
+        {
+            "name": "暴风资源",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "光速影视",
+            "type": 1,
+            "api": "https://api.guangsuapi.com/api.php/provide/vod"
+        },
+        {
+            "name": "新浪影视",
+            "type": 1,
+            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/"
+        }
+    ]
+}
