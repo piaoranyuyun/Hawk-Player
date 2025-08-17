@@ -117,7 +117,7 @@
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://github.com/TianmuTNT/iptv/raw/refs/heads/main/iptv.m3u"
+        "endpoint": "https://cdn.jsdelivr.net/gh/TianmuTNT/iptv@raw/refs/heads/main/iptv.m3u"
     },
     {
         "id": "iptv 2",
@@ -127,7 +127,7 @@
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://raw.githubusercontent.com/purkylin/XPTV/refs/heads/dev/Patch/iptv.m3u"
+        "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@refs/heads/dev/Patch/iptv.m3u"
     },
     {
         "id": "Bilibili",
