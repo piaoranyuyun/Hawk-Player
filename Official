@@ -110,6 +110,26 @@
         "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@dev/Patch/douban.js"
     },
     {
+        "id": "iptv",
+        "name": "iptv",
+        "desc": "My IPTV",
+        "type": "iptv",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://github.com/TianmuTNT/iptv/raw/refs/heads/main/iptv.m3u"
+    },
+    {
+        "id": "iptv 2",
+        "name": "iptv logo",
+        "desc": "My IPTV",
+        "type": "iptv",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://raw.githubusercontent.com/purkylin/XPTV/refs/heads/dev/Patch/iptv.m3u"
+    },
+    {
         "id": "Bilibili",
         "name": "弹幕",
         "desc": "Bilibili弹幕",
@@ -118,5 +138,52 @@
         "version": "0.0.5",
         "update_time": "2025-07-11T10:45:00Z",
         "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@dev/Patch/danmaku.js"
+    }
+    {
+        "id": "proxy",
+        "name": "Proxy",
+        "desc": "Proxy video stream",
+        "type": "proxy",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-16T10:45:00Z",
+        "api_password": "HAWKAPP",
+        "rules": [
+            {
+                "id": "csp_iyftv",
+                "proxy": true,
+                "hls": true
+            },
+            {
+                "id": "csp_miss",
+                "proxy": true,
+                "hls": true
+            },
+            {
+                "id": "csp_apple",
+                "proxy": true,
+                "hls": true
+            },
+            {
+                "id": "csp_xiaohys",
+                "proxy": true,
+                "hls": true
+            },
+            {
+                "id": "csp_jpyy",
+                "proxy": true,
+                "hls": true
+            },
+            {
+                "id": "csp_duboku",
+                "proxy": true,
+                "hls": true
+            },
+            {
+                "id": "csp_Olevod",
+                "proxy": true
+            }
+        ],
+        "endpoint": "https://ddxpxchjmokh.us-west-1.clawcloudrun.com"
     }
 ]
