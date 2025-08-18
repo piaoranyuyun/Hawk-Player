@@ -20,9 +20,10 @@
         "name": "CMS",
         "desc": "VOD",
         "type": "vod",
+        "cache": 21600,
         "author": "purkylin",
-        "version": "0.0.6",
-        "update_time": "2025-07-19T11:34:00Z",
+        "version": "0.0.5",
+        "update_time": "2025-07-11T10:45:00Z",
         "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@refs/heads/dev/CMS/XPTV.json"
     },
     {
@@ -117,7 +118,7 @@
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://github.com/TianmuTNT/iptv/raw/refs/heads/main/iptv.m3u"
+        "endpoint": "https://cdn.jsdelivr.net/gh/TianmuTNT/iptv@raw/refs/heads/main/iptv.m3u"
     },
     {
         "id": "iptv 2",
@@ -127,7 +128,7 @@
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://raw.githubusercontent.com/purkylin/XPTV/refs/heads/dev/Patch/iptv.m3u"
+        "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@refs/heads/dev/Patch/iptv.m3u"
     },
     {
         "id": "Bilibili",
@@ -138,7 +139,7 @@
         "version": "0.0.5",
         "update_time": "2025-07-11T10:45:00Z",
         "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@dev/Patch/danmaku.js"
-    }
+    },
     {
         "id": "proxy",
         "name": "Proxy",
