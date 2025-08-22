@@ -111,24 +111,74 @@
         "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@dev/Patch/douban.js"
     },
     {
-        "id": "iptv",
-        "name": "iptv",
-        "desc": "My IPTV",
+        "id": "iptv.china",
+        "name": "国内直播",
+        "desc": "国内直播",
         "type": "iptv",
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://cdn.jsdelivr.net/gh/TianmuTNT/iptv@raw/refs/heads/main/iptv.m3u"
+        "endpoint": "https://cdn.jsdelivr.net/gh/YueChan/Live@refs/heads/main/APTV.m3u"
     },
     {
-        "id": "iptv 2",
-        "name": "iptv logo",
-        "desc": "My IPTV",
+        "id": "iptv.global",
+        "name": "国外高清",
+        "desc": "国外高清电视",
         "type": "iptv",
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@refs/heads/dev/Patch/iptv.m3u"
+        "endpoint": "https://cdn.jsdelivr.net/gh/YueChan/Live@refs/heads/main/Global.m3u"
+    },
+    {
+        "id": "iptv.bj",
+        "name": "北京联通",
+        "desc": "北京联通宽带",
+        "type": "iptv",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://cdn.jsdelivr.net/gh/YueChan/Live@refs/heads/main/IPTV.m3u"
+    },
+    {
+        "id": "iptv.hn",
+        "name": "湖南移动",
+        "desc": "湖南移动宽带",
+        "type": "iptv",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://cdn.jsdelivr.net/gh/YueChan/Live@refs/heads/main/Hunan.m3u"
+    },
+    {
+        "id": "iptv.ipv6",
+        "name": "IPv6",
+        "desc": "IPv6",
+        "type": "iptv",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://cdn.jsdelivr.net/gh/YueChan/Live@refs/heads/main/IPV6.m3u"
+    },
+    {
+        "id": "iptv.radio",
+        "name": "电台广播",
+        "desc": "电台广播",
+        "type": "iptv",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://cdn.jsdelivr.net/gh/YueChan/Live@refs/heads/main/Radio.m3u"
+    },
+    {
+        "id": "cat",
+        "name": "CatPawOpen",
+        "desc": "cat",
+        "type": "cat-paw-open",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://9280.kstore.space/cat/index.js.md5"
     },
     {
         "id": "Bilibili",
