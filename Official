@@ -172,8 +172,8 @@
     },
     {
         "id": "cat1",
-        "name": "CatPawOpen",
-        "desc": "cat",
+        "name": "CatPawOpen1",
+        "desc": "cat1",
         "type": "cat-paw-open",
         "author": "purkylin",
         "version": "0.0.1",
@@ -183,7 +183,7 @@
     {
         "id": "cat2",
         "name": "CatPawOpen2",
-        "desc": "cat",
+        "desc": "cat2",
         "type": "cat-paw-open",
         "author": "purkylin",
         "version": "0.0.1",
