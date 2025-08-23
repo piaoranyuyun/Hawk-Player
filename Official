@@ -171,24 +171,14 @@
         "endpoint": "https://cdn.jsdelivr.net/gh/YueChan/Live@refs/heads/main/Radio.m3u"
     },
     {
-        "id": "cat1",
-        "name": "CatPawOpen1",
-        "desc": "cat1",
+        "id": "cat",
+        "name": "CatPawOpen",
+        "desc": "cat",
         "type": "cat-paw-open",
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
         "endpoint": "https://9280.kstore.space/cat/index.js.md5"
-    },
-    {
-        "id": "cat2",
-        "name": "CatPawOpen2",
-        "desc": "cat2",
-        "type": "cat-paw-open",
-        "author": "purkylin",
-        "version": "0.0.1",
-        "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "gitee://e603993245e184a418bb66840400dce0@gi tee.com/lhc797/TVSpider/dist/index.js.md5"
     },
     {
         "id": "Bilibili",
