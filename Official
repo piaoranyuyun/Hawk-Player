@@ -182,6 +182,17 @@
         "endpoint": "https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u"
     },
     {
+        "id": "iptv.aptv",
+        "name": "APTV",
+        "desc": "IPTV",
+        "type": "iptv",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+	      "ua": "AptvPlayer/1.2.10",
+        "endpoint": "https://bit.ly/iptv-aptv"
+    },
+    {
         "id": "cat",
         "name": "CatPawOpen",
         "desc": "cat",
