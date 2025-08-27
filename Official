@@ -181,6 +181,16 @@
         "endpoint": "https://9280.kstore.space/cat/index.js.md5"
     },
     {
+        "id": "cat2",
+        "name": "Wexfnw",
+        "desc": "cat",
+        "type": "cat-paw-open",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5"
+    },
+    {
         "id": "Bilibili",
         "name": "弹幕",
         "desc": "Bilibili弹幕",
