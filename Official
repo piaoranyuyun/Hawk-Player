@@ -210,6 +210,17 @@
         "endpoint": "https://bit.ly/iptv-aptv"
     },
     {
+        "id": "iptv.IPV4",
+        "name": "IPV4",
+        "desc": "IPTV",
+        "type": "iptv",
+        "icon": "https://cdn.9228.eu/tv.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/ipv4.m3u"
+    },
+    {
         "id": "cat",
         "name": "CatPawOpen",
         "desc": "cat",
