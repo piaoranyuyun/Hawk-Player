@@ -194,7 +194,7 @@
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
-	    "ua": "okHttp/Mod-1.2.0",
+	      "ua": "okHttp/Mod-1.2.0",
         "endpoint": "https://cdn.jsdelivr.net/gh/mursor1985/LIVE@refs/heads/main/iptv.m3u"
     },
     {
@@ -218,6 +218,7 @@
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
+        "ua": "okHttp/Mod-1.2.0",
         "endpoint": "https://sub.ottiptv.cc/bililive.m3u"
     },
     {
