@@ -213,8 +213,8 @@
         "endpoint": "https://sub.ottiptv.cc/douyuyqk.m3u"
     },
     {
-        "id": "iptv.lunbolive",
-        "name": "轮播",
+        "id": "iptv.yslunbo",
+        "name": "影视轮播",
         "desc": "IPTV",
         "type": "iptv",
         "icon": "https://cdn.9228.eu/tv.png",
