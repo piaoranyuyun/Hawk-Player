@@ -191,6 +191,30 @@
         "endpoint": "https://sub.ottiptv.cc/yylunbo.m3u"
     },
     {
+        "id": "iptv.IPTV",
+        "name": "IPTV",
+        "desc": "IPTV",
+        "type": "iptv",
+        "icon": "https://cdn.9228.eu/tv.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "ua": "okHttp/Mod-1.4.0.0",
+        "endpoint": "https://cdn.jsdelivr.net/gh/piaoranyuyun/Hawk-Player@refs/heads/main/IPTV"
+    },
+    {
+        "id": "iptv.Movie",
+        "name": "IPTV",
+        "desc": "IPTV",
+        "type": "iptv",
+        "icon": "https://cdn.9228.eu/tv.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "ua": "okHttp/Mod-1.4.0.0",
+        "endpoint": "https://cdn.jsdelivr.net/gh/piaoranyuyun/Hawk-Player@refs/heads/main/Movie"
+    },
+    {
         "id": "cat",
         "name": "CatPawOpen",
         "desc": "cat",
