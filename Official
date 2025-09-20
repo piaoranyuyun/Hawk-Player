@@ -199,7 +199,7 @@
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": " https://live.kilvn.com/iptv.m3u"
+        "endpoint": "https://live.kilvn.com/iptv.m3u"
     },
 	{
         "id": "iptv.iptv4",
@@ -210,7 +210,7 @@
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": " https://live.hacks.tools/tv/iptv4.m3u"
+        "endpoint": "https://live.hacks.tools/tv/iptv4.m3u"
     },
 	{
         "id": "iptv.iptv6",
@@ -221,7 +221,7 @@
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": " https://live.hacks.tools/tv/iptv6.m3u"
+        "endpoint": "https://live.hacks.tools/tv/iptv6.m3u"
     },
 	{
         "id": "iptv.Kimentanm",
@@ -232,7 +232,7 @@
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": " https://cdn.jsdelivr.net/gh/Kimentanm/aptv@master/m3u/iptv.m3u"
+        "endpoint": "https://cdn.jsdelivr.net/gh/Kimentanm/aptv@master/m3u/iptv.m3u"
     },
 	{
         "id": "iptv.hiyoi",
@@ -243,7 +243,7 @@
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": " https://cdn.jsdelivr.net/gh/hiyoi/IPTV@main/IPTV.m3u"
+        "endpoint": "https://cdn.jsdelivr.net/gh/hiyoi/IPTV@main/IPTV.m3u"
     },
     {
         "id": "cat",
