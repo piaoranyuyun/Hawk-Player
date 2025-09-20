@@ -191,15 +191,59 @@
         "endpoint": "https://sub.ottiptv.cc/yylunbo.m3u"
     },
     {
-        "id": "iptv.IPTV1",
-        "name": "IPTV1",
+        "id": "iptv.kilvn",
+        "name": "kilvn",
         "desc": "IPTV",
         "type": "iptv",
         "icon": "https://cdn.9228.eu/tv.png",
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://cdn.jsdelivr.net/gh/piaoranyuyun/Hawk-Player@refs/heads/main/IPTV1"
+        "endpoint": " https://live.kilvn.com/iptv.m3u"
+    },
+	{
+        "id": "iptv.iptv4",
+        "name": "iptv4",
+        "desc": "IPTV",
+        "type": "iptv",
+        "icon": "https://cdn.9228.eu/tv.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": " https://live.hacks.tools/tv/iptv4.m3u"
+    },
+	{
+        "id": "iptv.iptv6",
+        "name": "iptv6",
+        "desc": "IPTV",
+        "type": "iptv",
+        "icon": "https://cdn.9228.eu/tv.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": " https://live.hacks.tools/tv/iptv6.m3u"
+    },
+	{
+        "id": "iptv.Kimentanm",
+        "name": "Kimentanm",
+        "desc": "IPTV",
+        "type": "iptv",
+        "icon": "https://cdn.9228.eu/tv.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": " https://cdn.jsdelivr.net/gh/Kimentanm/aptv@master/m3u/iptv.m3u"
+    },
+	{
+        "id": "iptv.hiyoi",
+        "name": "hiyoi",
+        "desc": "IPTV",
+        "type": "iptv",
+        "icon": "https://cdn.9228.eu/tv.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": " https://cdn.jsdelivr.net/gh/hiyoi/IPTV@main/IPTV.m3u"
     },
     {
         "id": "cat",
