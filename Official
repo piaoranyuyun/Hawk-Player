@@ -191,6 +191,17 @@
         "endpoint": "https://sub.ottiptv.cc/yylunbo.m3u"
     },
     {
+        "id": "iptv.IPTV1",
+        "name": "IPTV1",
+        "desc": "IPTV",
+        "type": "iptv",
+        "icon": "https://cdn.9228.eu/tv.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://cdn.jsdelivr.net/gh/piaoranyuyun/Hawk-Player@refs/heads/main/IPTV1"
+    },
+    {
         "id": "cat",
         "name": "CatPawOpen",
         "desc": "cat",
