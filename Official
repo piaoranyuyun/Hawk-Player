@@ -18,8 +18,20 @@
     },
     {
         "id": "vod1",
-        "name": "CMS",
-        "desc": "VOD",
+        "name": "CMS TV",
+        "desc": "TV",
+        "type": "vod",
+		"icon": "https://cdn.9228.eu/vod.png?v=1",
+        "cache": 21600,
+        "author": "purkylin",
+        "version": "0.0.5",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://cdn.jsdelivr.net/gh/fangkuia/XPTV@refs/heads/main/CMS/XPTV.json"
+    },
+    {
+        "id": "vod2",
+        "name": "VOD TV",
+        "desc": "TV",
         "type": "vod",
 		"icon": "https://cdn.9228.eu/vod.png?v=1",
         "cache": 21600,
@@ -27,18 +39,6 @@
         "version": "0.0.5",
         "update_time": "2025-07-11T10:45:00Z",
         "endpoint": "https://cdn.jsdelivr.net/gh/fangkuia/XPTV@refs/heads/main/VOD/XPTV.json"
-    },
-    {
-        "id": "vod2",
-        "name": "VOD",
-        "desc": "VOD",
-        "type": "vod",
-		"icon": "https://cdn.9228.eu/vod.png?v=1",
-        "cache": 21600,
-        "author": "purkylin",
-        "version": "0.0.5",
-        "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://cdn.jsdelivr.net/gh/fangkuia/XPTV@refs/heads/main/VOD/TV.json"
     },
     {
         "id": "vod3",
@@ -51,7 +51,7 @@
         "version": "0.0.5",
         "update_time": "2025-07-11T10:45:00Z",
         "adult": true,
-        "endpoint": "https://cdn.jsdelivr.net/gh/fangkuia/XPTV@refs/heads/main/VOD/XPAV.json"
+        "endpoint": "https://cdn.jsdelivr.net/gh/fangkuia/XPTV@refs/heads/main/CMS/XPAV.json"
     },
     {
         "id": "vod4",
@@ -64,9 +64,9 @@
         "version": "0.0.5",
         "update_time": "2025-07-11T10:45:00Z",
         "adult": true,
-        "endpoint": "https://cdn.jsdelivr.net/gh/fangkuia/XPTV@refs/heads/main/VOD/AV.json"
+        "endpoint": "https://cdn.jsdelivr.net/gh/fangkuia/XPTV@refs/heads/main/VOD/XPAV.json"
     },
-    {
+	{
         "id": "vod5",
         "name": "VOD LIVE",
         "desc": "LIVE",
