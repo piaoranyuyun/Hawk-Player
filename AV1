@@ -4,7 +4,7 @@
       "name": "Rouvideo",
       "type": 3,
       "api": "csp_Rouvideo",
-      "ext": "https://raw.githubusercontent.com/hant1ng/xptv/refs/heads/main/Rouvideo.js"
+      "ext": "https://cdn.jsdelivr.net/gh/piaoranyuyun/Hawk-Player@refs/heads/main/Rouvideo.js"
     },
     {
       "name": "91Porn",
