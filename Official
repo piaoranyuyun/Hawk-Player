@@ -156,6 +156,17 @@
         "endpoint": "https://bit.ly/iptv-aptv"
     },
     {
+        "id": "iptv.laobai",
+        "name": "老白直播",
+        "desc": "IPTV",
+        "type": "iptv",
+        "icon": "https://cdn.9228.eu/tv.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://iptv.laobaitv.net"
+    },
+    {
         "id": "iptv.bililive",
         "name": "哔哩直播",
         "desc": "IPTV",
