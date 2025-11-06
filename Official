@@ -238,7 +238,7 @@
     },
     {
         "id": "cat",
-        "name": "CatPawOpen",
+        "name": "王二小1",
         "desc": "cat",
         "type": "cat-paw-open",
 	    "icon": "https://cdn.9228.eu/cat.png",
@@ -249,7 +249,7 @@
     },
     {
         "id": "cat2",
-        "name": "Wexfnw",
+        "name": "王二小2",
         "desc": "cat",
         "type": "cat-paw-open",
 		"icon": "https://cdn.9228.eu/cat.png",
