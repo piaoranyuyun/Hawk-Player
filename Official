@@ -38,7 +38,7 @@
         "author": "purkylin",
         "version": "0.0.5",
         "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://cdn.jsdelivr.net/gh/fangkuia/XPTV@refs/heads/main/VOD/XPTV.json"
+        "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@refs/heads/dev/Patch/vod.json"
     },
     {
         "id": "vod3",
@@ -215,17 +215,6 @@
         "endpoint": "https://sub.ottiptv.cc/yylunbo.m3u"
     },
     {
-        "id": "iptv.IPTV",
-        "name": "IPTV",
-        "desc": "IPTV",
-        "type": "iptv",
-        "icon": "https://cdn.9228.eu/tv.png",
-        "author": "purkylin",
-        "version": "0.0.1",
-        "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://cdn.jsdelivr.net/gh/piaoranyuyun/Hawk-Player@refs/heads/main/IPTV"
-    },
-    {
         "id": "iptv.Movie",
         "name": "IPTV",
         "desc": "IPTV",
@@ -268,17 +257,6 @@
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
         "endpoint": "https://a:b@catpaw.gendago.cc/index.js.md5"
-    },
-    {
-        "id": "Bilibili",
-        "name": "弹幕",
-        "desc": "Bilibili弹幕",
-        "type": "danmaku",
-		"icon": "https://cdn.9228.eu/danmaku.png",
-        "author": "purkylin",
-        "version": "0.0.5",
-        "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@dev/Patch/danmaku.js"
     },
     {
         "id": "proxy",
