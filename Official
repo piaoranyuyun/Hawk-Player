@@ -26,7 +26,7 @@
         "author": "purkylin",
         "version": "0.0.5",
         "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://cdn.jsdelivr.net/gh/fangkuia/XPTV@refs/heads/main/CMS/XPTV.json"
+        "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@refs/heads/dev/CMS/XPTV.json"
     },
     {
         "id": "vod2",
