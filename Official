@@ -80,6 +80,17 @@
         "endpoint": "https://cdn.jsdelivr.net/gh/fangkuia/XPTV@refs/heads/main/VOD/nmlive.json"
     },
     {
+        "id": "vod_rebbit",
+        "name": "Rebbit",
+        "desc": "Rebbit VOD",
+        "type": "vod",
+        "icon": "https://cdn.9228.eu/vod.png?v=1",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-11-22T10:45:00Z",
+        "endpoint": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/main/all.json"
+    }
+    {
         "id": "vod6",
         "name": "PAN",
         "desc": "网盘",
