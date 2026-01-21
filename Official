@@ -258,7 +258,7 @@
         "update_time": "2025-07-11T10:45:00Z",
         "endpoint": "http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5"
     },
-	  {
+	{
         "id": "cat3",
         "name": "真心",
         "desc": "cat",
@@ -268,6 +268,28 @@
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
         "endpoint": "https://a:b@catpaw.gendago.cc/index.js.md5"
+    },
+    {
+        "id": "cat4",
+        "name": "沐辰",
+        "desc": "cat",
+        "type": "cat-paw-open",
+		"icon": "https://cdn.9228.eu/cat.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js.md5"
+    },
+    {
+        "id": "cat5",
+        "name": "雪乃源",
+        "desc": "cat",
+        "type": "cat-paw-open",
+		"icon": "https://cdn.9228.eu/cat.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://9764.kstore.vip/xuenai/catvod/index.js.md5"
     },
     {
         "id": "proxy",
