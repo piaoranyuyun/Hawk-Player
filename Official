@@ -282,7 +282,7 @@
     },
     {
         "id": "cat5",
-        "name": "雪乃源",
+        "name": "雪乃源1",
         "desc": "cat",
         "type": "cat-paw-open",
 		"icon": "https://cdn.9228.eu/cat.png",
@@ -301,6 +301,28 @@
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
         "endpoint": "https://17095.kstore.space/index.js.md5"
+    },
+    {
+        "id": "cat7",
+        "name": "雪乃源2",
+        "desc": "cat",
+        "type": "cat-paw-open",
+		"icon": "https://cdn.9228.eu/cat.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/xuenai/index.js.md5"
+    },
+    {
+        "id": "cat8",
+        "name": "雪乃源2",
+        "desc": "cat",
+        "type": "cat-paw-open",
+		"icon": "https://cdn.9228.eu/cat.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/lmentor/index.js.md5"
     },
     {
         "id": "proxy",
