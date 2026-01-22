@@ -292,6 +292,17 @@
         "endpoint": "https://9764.kstore.vip/xuenai/catvod/index.js.md5"
     },
     {
+        "id": "cat6",
+        "name": "十八湾",
+        "desc": "cat",
+        "type": "cat-paw-open",
+	    "icon": "https://cdn.9228.eu/cat.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://17095.kstore.space/index.js.md5"
+    },
+    {
         "id": "proxy",
         "name": "Proxy",
         "desc": "Proxy video stream",
