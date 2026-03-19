@@ -278,7 +278,7 @@
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js.md5"
+        "endpoint": "https://ghfast.top/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js.md5"
     },
     {
         "id": "cat5",
@@ -334,6 +334,17 @@
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
         "endpoint": "https://ghfast.top/https://raw.githubusercontent.com/Jsnzkpg/stymei/Jsnzkpg/index.js.md5"
+    },
+    {
+        "id": "music_copyright",
+        "name": "music_copyright",
+        "desc": "Free_music",
+        "type": "music",
+		"icon": "https://cdn.9228.eu/music.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-11-12T10:45:00Z",
+        "endpoint": "https://ghfast.top/https://raw.githubusercontent.com/xxnuo/MusicFreePluginsHub/refs/heads/main/dist/plugins.json"
     },
     {
         "id": "proxy",
