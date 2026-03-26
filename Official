@@ -186,7 +186,7 @@
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
-        "ua": "okHttp/Mod-1.4.0.0",
+        "ua": "okHttp/Mod-1.5.0.0",
         "endpoint": "https://sub.ottiptv.cc/bililive.m3u"
     },
     {
@@ -198,7 +198,7 @@
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
-        "ua": "okHttp/Mod-1.4.0.0",
+        "ua": "okHttp/Mod-1.5.0.0",
         "endpoint": "https://sub.ottiptv.cc/huyayqk.m3u"
     },
     {
@@ -210,7 +210,7 @@
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
-        "ua": "okHttp/Mod-1.4.0.0",
+        "ua": "okHttp/Mod-1.5.0.0",
         "endpoint": "https://sub.ottiptv.cc/douyuyqk.m3u"
     },
     {
@@ -222,7 +222,7 @@
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
-        "ua": "okHttp/Mod-1.4.0.0",
+        "ua": "okHttp/Mod-1.5.0.0",
         "endpoint": "https://sub.ottiptv.cc/yylunbo.m3u"
     },
     {
