@@ -233,21 +233,32 @@
     },
     {
         "id": "cat6",
-        "name": "十八湾",
+        "name": "Crazy",
         "desc": "cat",
         "type": "cat-paw-open",
-	    "icon": "https://cdn.9228.eu/cat.png",
+	      "icon": "https://cdn.9228.eu/cat.png",
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
         "endpoint": "https://gh-proxy.org/https://raw.githubusercontent.com/ggboomla/catpaw/crazy/index.js.md5"
     },
     {
+        "id": "cat7",
+        "name": "Dist",
+        "desc": "cat",
+        "type": "cat-paw-open",
+	      "icon": "https://cdn.9228.eu/cat.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://gh-proxy.org/https://raw.githubusercontent.com/fangkuia/XPTV/main/dist/index.js.md5"
+    },
+    {
         "id": "cat8",
         "name": "Lmentor",
         "desc": "cat",
         "type": "cat-paw-open",
-		"icon": "https://cdn.9228.eu/cat.png",
+		    "icon": "https://cdn.9228.eu/cat.png",
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
@@ -258,7 +269,7 @@
         "name": "裤老",
         "desc": "cat",
         "type": "cat-paw-open",
-		"icon": "https://cdn.9228.eu/cat.png",
+		    "icon": "https://cdn.9228.eu/cat.png",
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
@@ -269,13 +280,13 @@
         "name": "Jay",
         "desc": "cat",
         "type": "cat-paw-open",
-		"icon": "https://cdn.9228.eu/cat.png",
+		    "icon": "https://cdn.9228.eu/cat.png",
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
         "endpoint": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/index.js.md5"
     },
-    	{
+    {
 		"id": "xiaowo",
 		"name": "小涡音乐",
 		"desc": "Music",
@@ -284,7 +295,7 @@
 		"author": "purkylin",
 		"version": "0.0.2",
 		"update_time": "2025-11-12T10:45:00Z",
-		"endpoint": "https://dev.9228.eu/js/xiaowo2.js"
+		"endpoint": "https://dev.9228.eu/js/xiaowo4.js"
 	},
 	{
 		"id": "xiaoqiu",
