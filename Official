@@ -297,6 +297,28 @@
 		"update_time": "2025-11-12T10:45:00Z",
 		"endpoint": "https://dev.9228.eu/js/xiaoqiu.js"
 	},
+  {
+		"id": "xiaoyun",
+		"name": "小云音乐",
+		"desc": "Music",
+		"type": "music-free",
+		"icon": "https://cdn.9228.eu/music2.png",
+		"author": "purkylin",
+		"version": "0.0.2",
+		"update_time": "2025-11-12T10:45:00Z",
+		"endpoint": "https://dev.9228.eu/js/xiaoyun3.js"
+	},
+	{
+		"id": "xiaogou",
+		"name": "小狗音乐",
+		"desc": "Music",
+		"type": "music-free",
+		"icon": "https://cdn.9228.eu/music2.png",
+		"author": "purkylin",
+		"version": "0.0.2",
+		"update_time": "2025-11-12T10:45:00Z",
+		"endpoint": "https://dev.9228.eu/js/xiaogou.js"
+	},
 	{
 		"id": "qdy",
 		"name": "全都要",
