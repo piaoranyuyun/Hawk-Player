@@ -352,4 +352,15 @@
 		"update_time": "2025-11-12T10:45:00Z",
 		"endpoint": "https://gh-proxy.org/https://raw.githubusercontent.com/purkylin/MusicFreePluginsHub/refs/heads/main/dist/plugins.json"
 	  },
+    {
+     "id": "book",
+     "name": "Book",
+     "desc": "Book",
+     "type": "book",
+     "icon": "https://cdn.9228.eu/book.png",
+     "author": "purkylin",
+     "version": "0.0.1",
+     "update_time": "2025-07-11T10:45:00Z",
+     "endpoint": "https://dev.9228.eu/book.json"
+    },
 ]
