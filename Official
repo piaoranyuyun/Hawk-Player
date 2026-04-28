@@ -26,7 +26,7 @@
         "author": "purkylin",
         "version": "0.0.5",
         "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://cdn.jsdelivr.net/gh/fangkuia/XPTV@refs/heads/main/CMS/TV.json"
+        "endpoint": "https://cdn.jsdelivr.net/gh/fangkuia/XPTV@main/CMS/XPTV.json"
     },
     {
         "id": "vod2",
@@ -38,7 +38,7 @@
         "author": "purkylin",
         "version": "0.0.5",
         "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://cdn.jsdelivr.net/gh/fangkuia/XPTV@refs/heads/main/VOD/TV.json"
+        "endpoint": "https://cdn.jsdelivr.net/gh/fangkuia/XPTV@main/VOD/XPTV.json"
     },
     {
         "id": "vod3",
@@ -51,7 +51,7 @@
         "version": "0.0.5",
         "update_time": "2025-07-11T10:45:00Z",
         "adult": true,
-        "endpoint": "https://cdn.jsdelivr.net/gh/fangkuia/XPTV@refs/heads/main/CMS/AV.json"
+        "endpoint": "https://cdn.jsdelivr.net/gh/fangkuia/XPTV@main/CMS/XPAV.json"
     },
     {
         "id": "vod4",
@@ -64,7 +64,7 @@
         "version": "0.0.5",
         "update_time": "2025-07-11T10:45:00Z",
         "adult": true,
-        "endpoint": "https://cdn.jsdelivr.net/gh/fangkuia/XPTV@refs/heads/main/VOD/AV.json"
+        "endpoint": "https://cdn.jsdelivr.net/gh/fangkuia/XPTV@main/VOD/XPAV.json"
     },
 	{
         "id": "vod5",
