@@ -144,7 +144,7 @@
         "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@dev/Patch/douban.js"
     },
     {
-        "id": "iptv.radio",
+        "id": "iptv.radio1",
         "name": "电台广播",
         "desc": "电台广播",
         "type": "iptv",
@@ -155,7 +155,7 @@
         "endpoint": "https://cdn.jsdelivr.net/gh/YueChan/Live@refs/heads/main/Radio.m3u"
     },
     {
-        "id": "iptv.radio",
+        "id": "iptv.radio2",
         "name": "国内电台",
         "desc": "电台广播",
         "type": "iptv",
