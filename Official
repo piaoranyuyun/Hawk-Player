@@ -177,6 +177,17 @@
         "endpoint": "https://iptv.laobaitv.net"
     },
     {
+        "id": "iptv.TV",
+        "name": "电视直播",
+        "desc": "IPTV",
+        "type": "iptv",
+        "icon": "https://cdn.9228.eu/tv.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://cdn.jsdelivr.net/gh/zilong7728/Collect-IPTV@refs/heads/main/best_sorted.m3u"
+    },
+    {
         "id": "iptv.Movie",
         "name": "电影轮播",
         "desc": "IPTV",
