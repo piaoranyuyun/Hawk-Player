@@ -91,7 +91,7 @@
         "endpoint": "https://cdn.jsdelivr.net/gh/xiaobaitulele/xptv@main/main/all.json"
     },
     {
-        "id": "vod7",
+        "id": "vod6",
         "name": "海豚",
         "desc": "海豚影视",
         "type": "vod",
@@ -102,7 +102,7 @@
         "endpoint": "https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/海豚.json"
     },
     {
-        "id": "vod6",
+        "id": "vod7",
         "name": "PAN",
         "desc": "网盘",
         "type": "vod",
@@ -363,6 +363,17 @@
 		"update_time": "2025-11-12T10:45:00Z",
 		"endpoint": "https://dev.9228.eu/js/xiaogou.js"
 	},
+  {
+    "id": "Huibq",
+    "name": "Huibq",
+    "desc": "Music Resolver",
+    "type": "luexue",
+    "icon": "https://cdn.9228.eu/resolver.png",
+    "author": "purkylin",
+    "version": "0.0.2",
+    "update_time": "2025-11-12T10:45:00Z",
+    "endpoint": "https://dev.9228.eu/js/huibq.js"
+  },
 	{
 		"id": "qdy",
 		"name": "全都要",
