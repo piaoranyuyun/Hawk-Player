@@ -103,6 +103,17 @@
     },
     {
         "id": "vod7",
+        "name": "蓝露",
+        "desc": "蓝露影视",
+        "type": "vod",
+        "icon": "https://cdn.9228.eu/vod.png?v=1",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-11-22T10:45:00Z",
+        "endpoint": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/lanlu.json"
+    },
+    {
+        "id": "vod8",
         "name": "PAN",
         "desc": "网盘",
         "type": "vod",
