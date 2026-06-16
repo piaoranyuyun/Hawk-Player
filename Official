@@ -91,33 +91,22 @@
         "endpoint": "https://cdn.jsdelivr.net/gh/xiaobaitulele/xptv@main/main/all.json"
     },
     {
-        "id": "vod6",
+        "id": "haitun",
         "name": "海豚",
-        "desc": "海豚影视",
-        "type": "vod",
-        "icon": "https://cdn.9228.eu/vod.png?v=1",
+        "desc": "tvbox",
+        "type": "tvbox",
+        "icon": "https://img.freepik.com/free-vector/cute-dolphin-swimming-cartoon-vector-icon-illustration-animal-nature-icon-isolated-flat-vector_138676-12582.jpg?semt=ais_hybrid&w=740&q=80",
         "author": "purkylin",
         "version": "0.0.1",
-        "update_time": "2025-11-22T10:45:00Z",
+        "update_time": "2025-07-11T10:45:00Z",
         "endpoint": "https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/海豚.json"
     },
     {
-        "id": "vod7",
-        "name": "蓝露",
-        "desc": "蓝露影视",
-        "type": "vod",
-        "icon": "https://cdn.9228.eu/vod.png?v=1",
-        "author": "purkylin",
-        "version": "0.0.1",
-        "update_time": "2025-11-22T10:45:00Z",
-        "endpoint": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/lanlu.json"
-    },
-    {
-        "id": "vod8",
+        "id": "vod6",
         "name": "PAN",
         "desc": "网盘",
         "type": "vod",
-		"icon": "https://cdn.9228.eu/vod.png?v=1",
+	    	"icon": "https://cdn.9228.eu/vod.png?v=1",
         "cache": 21600,
         "author": "purkylin",
         "version": "0.0.5",
@@ -130,7 +119,7 @@
         "name": "quark",
         "desc": "夸克网盘",
         "type": "pan",
-		"icon": "https://cdn.9228.eu/quark.png",
+		    "icon": "https://cdn.9228.eu/quark.png",
         "rules": [
             "https://pan.quark.cn/.*"
         ],
