@@ -99,7 +99,18 @@
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/海豚.json"
+        "endpoint": "https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/海豚666.json"
+    },
+    {
+        "id": "Godlike",
+        "name": "Godlike",
+        "desc": "tvbox",
+        "type": "tvbox",
+        "icon": "https://cdn.9228.eu/vod.png?v=1",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://raw.githubusercontent.com/GodLike631/Ly/refs/heads/main/datas/local_config.json"
     },
     {
         "id": "vod6",
@@ -123,7 +134,7 @@
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-11-22T10:45:00Z",
-        "endpoint": "https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/海豚.json"
+        "endpoint": "https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/海豚666.json"
     },
     {
         "id": "quark",
