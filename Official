@@ -113,6 +113,30 @@
         "endpoint": "https://raw.githubusercontent.com/GodLike631/Ly/refs/heads/main/datas/local_config.json"
     },
     {
+  "id": "fantaiying",
+  "name": "饭太硬",
+  "desc": "tvbox",
+  "type": "tvbox",
+  "icon": "https://img.freepik.com/free-vector/cute-dolphin-swimming-cartoon-vector-icon-illustration-animal-nature-icon-isolated-flat-vector_138676-12582.jpg?semt=ais_hybrid&w=740&q=80",
+  "author": "purkylin",
+  "version": "0.0.1",
+  "update_time": "2025-07-11T10:45:00Z",
+  "endpoint": "http://www.饭太硬.cc/tv",
+  "resolver": "https://www.xn--sss604efuw.cc/jm/jiemi.php"
+ },
+ {
+  "id": "feiyang",
+  "name": "肥羊",
+  "desc": "tvbox",
+  "type": "tvbox",
+  "icon": "https://img.freepik.com/free-vector/cute-dolphin-swimming-cartoon-vector-icon-illustration-animal-nature-icon-isolated-flat-vector_138676-12582.jpg?semt=ais_hybrid&w=740&q=80",
+  "author": "purkylin",
+  "version": "0.0.1",
+  "update_time": "2025-07-11T10:45:00Z",
+  "endpoint": "https://16151.kstore.space",
+  "resolver": "https://www.xn--sss604efuw.cc/jm/jiemi.php"
+ },
+    {
         "id": "vod6",
         "name": "PAN",
         "desc": "网盘",
