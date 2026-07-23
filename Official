@@ -136,6 +136,17 @@
   "endpoint": "https://16151.kstore.space",
   "resolver": "https://www.xn--sss604efuw.cc/jm/jiemi.php"
  },
+{
+  "id": "ceshi",
+  "name": "Ceshi",
+  "desc": "cat",
+  "type": "cat-paw-open",
+  "icon": "https://cdn.9228.eu/cat.png",
+  "author": "purkylin",
+  "version": "0.0.1",
+  "update_time": "2025-07-11T10:45:00Z",
+  "endpoint": "https://9280.kstore.space/ceshi/index.js.md5"
+ },
     {
         "id": "vod6",
         "name": "PAN",
