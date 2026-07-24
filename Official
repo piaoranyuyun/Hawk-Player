@@ -464,4 +464,41 @@
      "update_time": "2025-07-11T10:45:00Z",
      "endpoint": "https://dev.9228.eu/book.json"
     },
+    {
+  "id": "T1637721837886",
+  "name": "影视资讯",
+  "desc": "影视资讯",
+  "type": "news",
+  "icon": "https://cdn.9228.eu/news.png",
+  "author": "purkylin",
+  "version": "0.0.1",
+  "update_time": "2025-07-11T10:45:00Z",
+  "endpoint": "https://rsshub.9228.eu/163/dy2/T1637721837886",
+  "readability": true,
+  "rules": [
+   {
+    "name": "NetEase Image Prompt",
+    "action": "removeText",
+    "selector": "p",
+    "contains": "打开网易新闻 查看精彩图片"
+   },
+   {
+    "name": "Header Tag",
+    "action": "removeSelector",
+    "selector": "header"
+   }
+  ]
+ },
+ {
+  "id": "tg_pan_4k",
+  "name": "TG网盘资源",
+  "desc": "影视资讯",
+  "type": "news",
+  "icon": "https://cdn.9228.eu/news.png",
+  "author": "purkylin",
+  "version": "0.0.1",
+  "update_time": "2025-07-11T10:45:00Z",
+  "endpoint": "https://rsshub.9228.eu/telegram/channel/Aliyun_4K_Movies",
+  "readability": false
+ },
 ]
