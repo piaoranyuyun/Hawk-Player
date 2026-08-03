@@ -356,14 +356,14 @@
     },
     {
         "id": "cat9",
-        "name": "裤老",
+        "name": "Mafly",
         "desc": "cat",
         "type": "cat-paw-open",
 		    "icon": "https://cdn.9228.eu/cat.png",
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/stymei/Jsnzkpg/index.js.md5"
+        "endpoint": "https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mao/index.js.md5"
     },
     {
         "id": "cat10",
