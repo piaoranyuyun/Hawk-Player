@@ -11,7 +11,43 @@
       "type": 3,
       "api": "csp_91Porn",
       "ext": "https://cdn.jsdelivr.net/gh/piaoranyuyun/Hawk-Player@refs/heads/main/91porn.js"
-    }
+    },
+    {
+      "name": "布布追剧",
+      "type": 3,
+      "api": "csp_布布追剧",
+      "ext": "https://cdn.jsdelivr.net/gh/piaoranyuyun/Hawk-Player@refs/heads/main/布布追剧.js"
+    },
+    {
+      "name": "开心影院",
+      "type": 3,
+      "api": "csp_开心影院",
+      "ext": "https://cdn.jsdelivr.net/gh/piaoranyuyun/Hawk-Player@refs/heads/main/开心影院.js"
+    },
+    {
+      "name": "拾光影视",
+      "type": 3,
+      "api": "csp_拾光影视",
+      "ext": "https://cdn.jsdelivr.net/gh/piaoranyuyun/Hawk-Player@refs/heads/main/拾光影视.js"
+    },
+    {
+      "name": "枫叶影视",
+      "type": 3,
+      "api": "csp_枫叶影视",
+      "ext": "https://cdn.jsdelivr.net/gh/piaoranyuyun/Hawk-Player@refs/heads/main/枫叶影视.js"
+    },
+    {
+      "name": "片库",
+      "type": 3,
+      "api": "csp_片库",
+      "ext": "https://cdn.jsdelivr.net/gh/piaoranyuyun/Hawk-Player@refs/heads/main/片库.js"
+    },
+    {
+      "name": "西瓜影视",
+      "type": 3,
+      "api": "csp_西瓜影视",
+      "ext": "https://cdn.jsdelivr.net/gh/piaoranyuyun/Hawk-Player@refs/heads/main/西瓜影视.js"
+    },
   ]
   
 }
