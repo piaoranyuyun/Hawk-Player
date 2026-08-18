@@ -1,20 +1,47 @@
 [
     {
-        "id": "yt-dlp",
-        "name": "yt-dlp",
-        "desc": "A feature-rich command-line audio/video downloader",
-        "type": "yt-dlp",
-		"icon": "https://cdn.9228.eu/youtube.png",
-        "rules": [
-            "https://.*.youtube.com/watch\\?v=([\\w\\-]+).*",
-            "https://x.com/\\w+/status/(\\d+).*",
-            "https://youtu.be/([\\w\\-]+)\\?si=.+"
-        ],
-        "cache": 21600,
+        "id": "cat",
+        "name": "王二小1",
+        "desc": "cat",
+        "type": "cat-paw-open",
+	      "icon": "https://cdn.9228.eu/cat.png",
         "author": "purkylin",
-        "version": "0.0.3",
+        "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://api.9228.eu/ytdlp/"
+        "endpoint": "https://9280.kstore.space/cat/index.js.md5"
+    },
+    {
+        "id": "cat2",
+        "name": "王二小2",
+        "desc": "cat",
+        "type": "cat-paw-open",
+		    "icon": "https://cdn.9228.eu/cat.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5"
+    },
+    {
+        "id": "cat3",
+        "name": "Crazy",
+        "desc": "cat",
+        "type": "cat-paw-open",
+	      "icon": "https://cdn.9228.eu/cat.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://gh-proxy.org/https://raw.githubusercontent.com/ggboomla/catpaw/crazy/index.js.md5"
+    },
+    {
+        "id": "cat4",
+        "name": "Dist",
+        "desc": "cat",
+        "type": "cat-paw-open",
+	      "icon": "https://cdn.9228.eu/cat.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://gh-proxy.org/https://raw.githubusercontent.com/fangkuia/XPTV/main/dist/index.js.md5"
     },
     {
         "id": "vod1",
@@ -91,6 +118,39 @@
         "endpoint": "https://cdn.jsdelivr.net/gh/xiaobaitulele/xptv@main/main/all.json"
     },
     {
+        "id": "vod6",
+        "name": "海豚影视",
+        "desc": "海豚",
+        "type": "vod",
+        "icon": "https://cdn.9228.eu/vod.png?v=1",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-11-22T10:45:00Z",
+        "endpoint": "https://cdn.jsdelivr.net/gh/piaoranyuyun/Hawk-Player@refs/heads/main/Original.json"
+    },
+    {
+        "id": "iptv.TV1",
+        "name": "电视直播1",
+        "desc": "IPTV",
+        "type": "iptv",
+        "icon": "https://cdn.9228.eu/tv.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://cdn.jsdelivr.net/gh/jn950/live@refs/heads/main/tv/holive.m3u"
+    },
+    {
+        "id": "iptv.TV2",
+        "name": "电视直播2",
+        "desc": "IPTV",
+        "type": "iptv",
+        "icon": "https://cdn.9228.eu/tv.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://cdn.jsdelivr.net/gh/zilong7728/Collect-IPTV@refs/heads/main/best_sorted.m3u"
+    },
+    {
         "id": "haitun",
         "name": "海豚",
         "desc": "tvbox",
@@ -99,56 +159,45 @@
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok海豚18.json"
+        "endpoint": "https://cdn.jsdelivr.net/gh/piaoranyuyun/Hawk-Player@refs/heads/main/Original.json"
     },
     {
-        "id": "Godlike",
-        "name": "蝴蝶",
+       "id": "fantaiying",
+       "name": "饭太硬",
+       "desc": "tvbox",
+       "type": "tvbox",
+       "icon": "https://img.freepik.com/free-vector/cute-dolphin-swimming-cartoon-vector-icon-illustration-animal-nature-icon-isolated-flat-vector_138676-12582.jpg?semt=ais_hybrid&w=740&q=80",
+       "author": "purkylin",
+       "version": "0.0.1",
+       "update_time": "2025-07-11T10:45:00Z",
+       "endpoint": "http://www.饭太硬.cc/tv",
+       "resolver": "https://www.xn--sss604efuw.cc/jm/jiemi.php"
+   },
+   {
+        "id": "feiyang",
+        "name": "肥羊",
         "desc": "tvbox",
         "type": "tvbox",
-        "icon": "https://cdn.9228.eu/vod.png?v=1",
+        "icon": "https://img.freepik.com/free-vector/cute-dolphin-swimming-cartoon-vector-icon-illustration-animal-nature-icon-isolated-flat-vector_138676-12582.jpg?semt=ais_hybrid&w=740&q=80",
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://hd.lytvs.top/蝴蝶影视全量版ua9.json"
+        "endpoint": "https://16151.kstore.space",
+        "resolver": "https://www.xn--sss604efuw.cc/jm/jiemi.php"
+   },
+   {
+        "id": "ceshi",
+        "name": "Ceshi",
+        "desc": "cat",
+        "type": "cat-paw-open",
+        "icon": "https://cdn.9228.eu/cat.png",
+        "author": "purkylin",
+        "version": "0.0.1",
+        "update_time": "2025-07-11T10:45:00Z",
+        "endpoint": "https://9280.kstore.space/ceshi/index.js.md5"
     },
     {
-  "id": "fantaiying",
-  "name": "饭太硬",
-  "desc": "tvbox",
-  "type": "tvbox",
-  "icon": "https://img.freepik.com/free-vector/cute-dolphin-swimming-cartoon-vector-icon-illustration-animal-nature-icon-isolated-flat-vector_138676-12582.jpg?semt=ais_hybrid&w=740&q=80",
-  "author": "purkylin",
-  "version": "0.0.1",
-  "update_time": "2025-07-11T10:45:00Z",
-  "endpoint": "http://www.饭太硬.cc/tv",
-  "resolver": "https://www.xn--sss604efuw.cc/jm/jiemi.php"
- },
- {
-  "id": "feiyang",
-  "name": "肥羊",
-  "desc": "tvbox",
-  "type": "tvbox",
-  "icon": "https://img.freepik.com/free-vector/cute-dolphin-swimming-cartoon-vector-icon-illustration-animal-nature-icon-isolated-flat-vector_138676-12582.jpg?semt=ais_hybrid&w=740&q=80",
-  "author": "purkylin",
-  "version": "0.0.1",
-  "update_time": "2025-07-11T10:45:00Z",
-  "endpoint": "https://16151.kstore.space",
-  "resolver": "https://www.xn--sss604efuw.cc/jm/jiemi.php"
- },
-{
-  "id": "ceshi",
-  "name": "Ceshi",
-  "desc": "cat",
-  "type": "cat-paw-open",
-  "icon": "https://cdn.9228.eu/cat.png",
-  "author": "purkylin",
-  "version": "0.0.1",
-  "update_time": "2025-07-11T10:45:00Z",
-  "endpoint": "https://9280.kstore.space/ceshi/index.js.md5"
- },
-    {
-        "id": "vod6",
+        "id": "vod7",
         "name": "PAN",
         "desc": "网盘",
         "type": "vod",
@@ -161,22 +210,11 @@
         "endpoint": "https://cdn.jsdelivr.net/gh/purkylin/XPTV@dev/VOD/PAN.json"
     },
     {
-        "id": "vod7",
-        "name": "海豚影视",
-        "desc": "海豚",
-        "type": "vod",
-        "icon": "https://cdn.9228.eu/vod.png?v=1",
-        "author": "purkylin",
-        "version": "0.0.1",
-        "update_time": "2025-11-22T10:45:00Z",
-        "endpoint": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok海豚18.json"
-    },
-    {
         "id": "quark",
         "name": "quark",
         "desc": "夸克网盘",
         "type": "pan",
-		    "icon": "https://cdn.9228.eu/quark.png",
+		 "icon": "https://cdn.9228.eu/quark.png",
         "rules": [
             "https://pan.quark.cn/.*"
         ],
@@ -245,17 +283,6 @@
         "endpoint": "https://iptv.laobaitv.net"
     },
     {
-        "id": "iptv.TV",
-        "name": "电视直播",
-        "desc": "IPTV",
-        "type": "iptv",
-        "icon": "https://cdn.9228.eu/tv.png",
-        "author": "purkylin",
-        "version": "0.0.1",
-        "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://cdn.jsdelivr.net/gh/zilong7728/Collect-IPTV@refs/heads/main/best_sorted.m3u"
-    },
-    {
         "id": "iptv.Movie",
         "name": "电影轮播",
         "desc": "IPTV",
@@ -266,30 +293,8 @@
         "update_time": "2025-07-11T10:45:00Z",
         "endpoint": "https://cdn.jsdelivr.net/gh/piaoranyuyun/Hawk-Player@refs/heads/main/Movie"
     },
-    {
-        "id": "cat",
-        "name": "王二小1",
-        "desc": "cat",
-        "type": "cat-paw-open",
-	      "icon": "https://cdn.9228.eu/cat.png",
-        "author": "purkylin",
-        "version": "0.0.1",
-        "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://9280.kstore.space/cat/index.js.md5"
-    },
-    {
-        "id": "cat2",
-        "name": "王二小2",
-        "desc": "cat",
-        "type": "cat-paw-open",
-		    "icon": "https://cdn.9228.eu/cat.png",
-        "author": "purkylin",
-        "version": "0.0.1",
-        "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5"
-    },
-	  {
-        "id": "cat3",
+	{
+        "id": "cat5",
         "name": "真心",
         "desc": "cat",
         "type": "cat-paw-open",
@@ -300,55 +305,33 @@
         "endpoint": "https://a:b@catpaw.gendago.cc/index.js.md5"
     },
     {
-        "id": "cat4",
+        "id": "cat6",
         "name": "沐辰",
         "desc": "cat",
         "type": "cat-paw-open",
-		    "icon": "https://cdn.9228.eu/cat.png",
+		"icon": "https://cdn.9228.eu/cat.png",
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
         "endpoint": "https://gh-proxy.org/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js.md5"
     },
     {
-        "id": "cat5",
+        "id": "cat7",
         "name": "雪乃源",
         "desc": "cat",
         "type": "cat-paw-open",
-		    "icon": "https://cdn.9228.eu/cat.png",
+		"icon": "https://cdn.9228.eu/cat.png",
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
         "endpoint": "https://9764.kstore.vip/xuenai/catvod/index.js.md5"
     },
     {
-        "id": "cat6",
-        "name": "Crazy",
-        "desc": "cat",
-        "type": "cat-paw-open",
-	      "icon": "https://cdn.9228.eu/cat.png",
-        "author": "purkylin",
-        "version": "0.0.1",
-        "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://gh-proxy.org/https://raw.githubusercontent.com/ggboomla/catpaw/crazy/index.js.md5"
-    },
-    {
-        "id": "cat7",
-        "name": "Dist",
-        "desc": "cat",
-        "type": "cat-paw-open",
-	      "icon": "https://cdn.9228.eu/cat.png",
-        "author": "purkylin",
-        "version": "0.0.1",
-        "update_time": "2025-07-11T10:45:00Z",
-        "endpoint": "https://gh-proxy.org/https://raw.githubusercontent.com/fangkuia/XPTV/main/dist/index.js.md5"
-    },
-    {
         "id": "cat8",
         "name": "Lmentor",
         "desc": "cat",
         "type": "cat-paw-open",
-		    "icon": "https://cdn.9228.eu/cat.png",
+		"icon": "https://cdn.9228.eu/cat.png",
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
@@ -359,7 +342,7 @@
         "name": "Mafly",
         "desc": "cat",
         "type": "cat-paw-open",
-		    "icon": "https://cdn.9228.eu/cat.png",
+		"icon": "https://cdn.9228.eu/cat.png",
         "author": "purkylin",
         "version": "0.0.1",
         "update_time": "2025-07-11T10:45:00Z",
@@ -398,7 +381,7 @@
 		"update_time": "2025-11-12T10:45:00Z",
 		"endpoint": "https://dev.9228.eu/js/xiaoqiu.js"
 	},
-  {
+    {
 		"id": "xiaoyun",
 		"name": "小云音乐",
 		"desc": "Music",
@@ -420,7 +403,7 @@
 		"update_time": "2025-11-12T10:45:00Z",
 		"endpoint": "https://dev.9228.eu/js/xiaogou.js"
 	},
-  {
+    {
     "id": "Huibq",
     "name": "Huibq",
     "desc": "Music Resolver",
@@ -430,7 +413,7 @@
     "version": "0.0.2",
     "update_time": "2025-11-12T10:45:00Z",
     "endpoint": "https://dev.9228.eu/js/huibq.js"
-  },
+    },
 	{
 		"id": "qdy",
 		"name": "全都要",
